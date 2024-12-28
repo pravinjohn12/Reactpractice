@@ -83,6 +83,7 @@ function App() {
                 <li>
                   <strong className="text-gray-900">Innovation:</strong> We embrace technology and innovation to make learning efficient, engaging, and effective.
                 </li>
+                
                 <li>
                   <strong className="text-gray-900">Integrity:</strong> We believe in honest and transparent practices in every aspect of our platform.
                 </li>
@@ -107,7 +108,7 @@ function App() {
               <li>Personalized Mentoring: Get one-on-one guidance from experts to clear doubts and stay motivated.</li>
             </ul>
           </div>
-
+        
           <div className="py-12">
             <h2 className="text-3xl text-blue-600 font-bold mb-5">100-Day Test Series Plan</h2>
             <p className="text-lg text-gray-800">
@@ -137,7 +138,7 @@ function App() {
               Start your journey today with our <strong>100-Day Test Series Plan</strong> and build the confidence to excel in the TNPSC Group 4 exams.
             </p>
           </div>
-
+        
           {/* Contact Section */}
           <div className="text-center py-12">
             <h2 className="text-3xl text-blue-600 font-bold mb-5">Contact Us</h2>
