@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Home from "../pages/Home"
 import About from "../pages/About"
 import Dashboard from "../pages/Dashboard"
+import TermsPolicy from "../pages/TermsPolicy"
 
 
 function AppRouter() {
@@ -12,6 +13,7 @@ function AppRouter() {
     <Route path="/" element={<Home/>}/>
     <Route path="dashboard" element={<Dashboard/>}/>
     <Route path="/about" element={<About/>}/>
+    <Route path="/terms" element={<TermsPolicy/>}/>
    </Routes>
 
   )
