@@ -18,7 +18,7 @@ function TermsPolicy() {
         },
         {
           subtitle: '3. User Responsibilities',
-          text: 'Users agree to provide accurate information during registration, maintain confidentiality of their accounts, and not engage in illegal activity or harm other users.',
+          text: 'Users agree to provides accurate information during registration, maintain confidentiality of their accounts, and not engage in illegal activity or harm other users.',
         },
         {
           subtitle: '4. Payments and Fees',
